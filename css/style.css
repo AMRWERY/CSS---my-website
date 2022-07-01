@@ -1,0 +1,91 @@
+body {
+  background-color: #FFE7BF;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 75px;
+  color: #810955;
+}
+
+h3 {
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #9CB4CC;
+  position: relative;
+  padding-top: 70px;
+}
+
+.personal-img {
+  margin: 100px auto;
+  border-radius: 50%;
+  border: 1px solid blue;
+  display: block;
+  width: 20%;
+}
+
+.contact-me {
+  background-color: #18978F;
+}
+
+.bottom-container {
+  background-color: #9CB4CC;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 30px;
+  right: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: right;
+  line-height: 2;
+  padding: 20px;
+}
+
+.skills {
+  background-color: #9CB4CC;
+  padding: 20px;
+}
+
+.motovation {
+  float: left;
+  margin-right: 5px;
+  border-radius: 50%;
+}
+
+.hard-worker {
+  float: right;
+  margin-left: 15px;
+  border-radius: 50%;
+}
+
+.work-with-team {
+  float: left;
+  margin-right: 5px;
+  border-radius: 48%;
+}
